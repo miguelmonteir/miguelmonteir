@@ -1,4 +1,4 @@
-- Olá eu me chamo Miguel Monteiro
+- Olá eu me chamo Miguel Monteiro de França Lima
 - 📚 Estudo engenharia da computação na uninassau
 - 👥 Tem facilidade em trabalhar em grupo
 - <div style="display: inline_block"><br>
