@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=708090&size=35&center=true&vCenter=true&width=1000&lines=Ola!,+Me+chamo+Miguel+Monteiro;Tenho+20+anos;Moro+em+Recife-PE;Faço+Faculdade+de+engenharia+da+computação;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 - Olá eu me chamo Miguel Monteiro de França Lima
 - 📚 Estudo engenharia da computação na uninassau
@@ -11,7 +12,11 @@
   <img align="center" alt="Miguel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Migul-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+
+  ------------------------------------------------------------------------------------------------------------
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelmonteir&bg_color=1C1C1C&color=4682B4&line=708090&point=708090&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   
 </div>
 
