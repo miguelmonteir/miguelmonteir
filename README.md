@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=708090&size=35&center=true&vCenter=true&width=1000&lines=Ola!,+Me+chamo+Miguel+Monteiro;Tenho+20+anos;Moro+em+Recife-PE;Faço+Faculdade+de+engenharia+da+computação;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-- Olá eu me chamo Miguel Monteiro de França Lima
 - 📚 Estudo engenharia da computação na uninassau
 - 👥 Tem facilidade em trabalhar em grupo
 - ⚡ E sou muito proativo
